@@ -7,6 +7,31 @@
 # Max Score: 30
 # Language: Python
 
+Explanation
+
+A contains the following hourglasses:
+
+1 1 1   1 1 0   1 0 0   0 0 0
+  1       0       0       0
+1 1 1   1 1 0   1 0 0   0 0 0
+
+0 1 0   1 0 0   0 0 0   0 0 0
+  1       1       0       0
+0 0 2   0 2 4   2 4 4   4 4 0
+
+1 1 1   1 1 0   1 0 0   0 0 0
+  0       2       4       4
+0 0 0   0 0 2   0 2 0   2 0 0
+
+0 0 2   0 2 4   2 4 4   4 4 0
+  0       0       2       0
+0 0 1   0 1 2   1 2 4   2 4 0
+The hourglass with the maximum sum (19) is:
+
+2 4 4
+  2
+1 2 4
+
 # ========================
 #         Solution
 # ========================
