@@ -9,7 +9,7 @@
 My problem solving 
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/naemazam/HackerRank-Solutions)](https://github.com/naemazam/HackerRank-Solutions/commits/main)
-[![GitHub repo size](https://img.shields.io/github/repo-size/naemazam/HackerRank-Solutions)](https://github.com/naemazam/HackerRank-Solutions/archive/main.zip)
+
 
 ## Personal HackerRank Profile
 I’m a research scientist working to better understand About AI. My expertise includes Linux System Administration, IT Support Specialist, Web Design, and implementation of research tools. I enjoy generating new ideas and devising feasible solutions to broadly relevant problems.
