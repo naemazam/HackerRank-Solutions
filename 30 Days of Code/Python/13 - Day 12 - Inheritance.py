@@ -7,63 +7,53 @@
 # Max Score: 30
 # Language: Python
 
+Explanation
+
+This student had 2 scores to average: 100 and 80. The student’s average grade is (100 + 800) / 2 = 90. 
+    An average grade of 90 corresponds to the letter grade O, so the calculate() method should return the character'O'.
+
 # ========================
 #         Solution
 # ========================
 
 class Person:
-    def __init__(self, first_name, last_name, id_number):
-        self.first_name = first_name
-        self.last_name = last_name
-        self.id_number = id_number
-    def print_person(self):
-        '''Print Student Name and ID'''
-        print("Name:", self.last_name + ",", self.first_name)
-        print("ID:", self.id_number)
-
+	def __init__(self, firstName, lastName, idNumber):
+		self.firstName = firstName
+		self.lastName = lastName
+		self.idNumber = idNumber
+	def printPerson(self):
+		print("Name:", self.lastName + ",", self.firstName)
+		print("ID:", self.idNumber)
 class Student(Person):
-    '''Class Constructor'''
-    # Parameters:
-    # first_name - A string denoting the Person's first name.
-    # last_name - A string denoting the Person's last name.
-    # id - An integer denoting the Person's ID number.
-    # scores - An array of integers denoting the Person's test scores.
+    def __init__(self, firstName, lastName, idNumber, testScores):
+        super().__init__(firstName, lastName, idNumber)
+        self.testScores = testScores
 
-    # Write your constructor here
-    def __init__(self, first_name, last_name, id_number, scores):
-        self.scores = scores
-        super().__init__(first_name, last_name, id_number)
-
-    # Function Name: calculate
-    # Return: A character denoting the grade.
-
-    # Write your function here
     def calculate(self):
-        '''Calcuate Scores'''
+        total = 0
 
-        average = sum(self.scores) / len(self.scores)
-        if 90 <= average <= 100:
+        for testScore in self.testScores:
+            total += testScore
+
+        avg = total / len(self.testScores)
+
+        if 90 <= avg <= 100:
             return 'O'
-        elif 80 <= average <= 90:
+        if 80 <= avg < 90:
             return 'E'
-        elif 70 <= average <= 80:
+        if 70 <= avg < 80:
             return 'A'
-        elif 55 <= average <= 70:
+        if 55 <= avg < 70:
             return 'P'
-        elif 40 <= average <= 55:
+        if 40 <= avg < 55:
             return 'D'
-        else:
-            return 'T'
-
-LINE = input().split()
-FIRST_NAME = LINE[0]
-LAST_NAME = LINE[1]
-ID_NUMBER = LINE[2]
-
-NUM_SCORES = int(input()) # not needed for Python
-SCORES = list( map(int, input().split()))
-
-S = Student(FIRST_NAME, LAST_NAME, ID_NUMBER, SCORES)
-S.print_person()
-
-print("Grade:", S.calculate())
+        return 'T'        
+line = input().split()
+firstName = line[0]
+lastName = line[1]
+idNum = line[2]
+numScores = int(input()) # not needed for Python
+scores = list( map(int, input().split()) )
+s = Student(firstName, lastName, idNum, scores)
+s.printPerson()
+print("Grade:", s.calculate())
