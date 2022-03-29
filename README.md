@@ -24,7 +24,7 @@ I’m a research scientist working to better understand About AI. My expertise i
 
 ## Table Of Contents
 
-* [30 Days of Code Solutions](30-Days-of-Code-Solutions)
+* [30 Days of Code Solutions](#30-days-of-code-solutions)
 
 
 ##  30 Days of Code Solutions
