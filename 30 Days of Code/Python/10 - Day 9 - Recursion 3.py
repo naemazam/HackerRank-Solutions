@@ -7,6 +7,15 @@
 # Max Score: 30
 # Language: Python
 
+Explanation
+
+Consider the following steps. After the recursive calls from step 1 to 3, results are accumulated from step 3 to 1.
+
+
+factorial(3) = 3 x factorial(2) = 3 x 2 = 6
+factorial(2) = 2 x factorial(2) = 2 x 1 = 2
+factorial(1) = 1
+
 # ========================
 #         Solution
 # ========================

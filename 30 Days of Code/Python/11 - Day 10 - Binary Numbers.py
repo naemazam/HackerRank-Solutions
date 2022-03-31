@@ -7,6 +7,14 @@
 # Max Score: 30
 # Language: Python
 
+Explanation
+
+Sample Case 1:
+The binary representation of 510 is 1012, so the maximum number of consecutive 1‘s is 1.
+
+Sample Case 2:
+The binary representation of 1310 is 11012, so the maximum number of consecutive 1‘s is 2.
+
 # ========================
 #         Solution
 # ========================
