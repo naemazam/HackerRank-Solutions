@@ -25,3 +25,4 @@ I’m a research scientist working to better understand About AI. My expertise i
 ## Table Of Contents
 
 * [30 Days of Code Solutions](30%20Days%20of%20Code)
+* [10 Days of JavaScript](10%20Days%20of%20JavaScript/README.md)
