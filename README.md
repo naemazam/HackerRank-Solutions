@@ -20,7 +20,23 @@ I’m a research scientist working to better understand About AI. My expertise i
 
 
 ### HackerRank Certificates
-
+<table>  
+<tr>  
+<th>Name</th>   
+<th>View</th> 
+    <th>solution</th>
+</tr>  
+<tr>  
+<td>Problem Solving (Basic) </td>  
+<td> <a href="https://www.hackerrank.com/certificates/61f93ebd5633"> Certificate</td>
+    <td><a href="Certificates%20solution">Solution</td> 
+</tr>  
+<tr>  
+<td>SQL (Basic)</td>  
+<td><a href="https://www.hackerrank.com/certificates/2b9ce50f3cbe">Certificate</td>   
+    <td><a href="Certificates%20solution">Solution</td> 
+</tr>  
+</table>
 
 ## Table Of Contents
 
