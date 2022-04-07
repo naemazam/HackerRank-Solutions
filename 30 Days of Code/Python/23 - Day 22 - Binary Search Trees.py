@@ -7,6 +7,12 @@
 # Max Score: 30
 # Language: Python
 
+'''
+Explanation
+
+There are 4 nodes in this path that are connected by 3 edges, meaning our BST’s height = 3. Thus, we print 3 as our answer.
+'''
+
 # ========================
 #         Solution
 # ========================
