@@ -40,20 +40,45 @@ I’m a research scientist working to better understand About AI. My expertise i
 
 ## Table Of Contents
 
-<table>  
-<tr>  
-<th>Name</th>  
-<th>solution</th>  
-<th>video</th>  
-</tr>  
-<tr>  
-<td>30 Days of Code </td>  
-<td> <a href="30%20Days%20of%20Code"> solution</td>  
-<td>[video](youtube)</td>  
-</tr>  
-<tr>  
-<td>10 Days of JavaScript</td>  
-<td><a href="10%20Days%20of%20JavaScript/README.md">Solution</td>  
-<td>video</td>  
-</tr>  
+
+<table style="width:100%">
+  <tr>
+  <th>Prepare</th>
+    <th>Name</th>
+    <th>solution</th>
+    <th>Explain Videos</th>
+  </tr>
+  <tr>
+    <td rowspan="3">Tutorials</td>
+    <td>30 Days of Code</td>
+    <td> <a href="30%20Days%20of%20Code"> solution</td>  
+<td><a href="30%20Days%20of%20Code">youtube</td> 
+  </tr>
+  <tr>
+    <td>10 Days of JavaScript</td>
+    <td><a href="10%20Days%20of%20JavaScript/README.md">Solution</td>  
+    <td><a href="30%20Days%20of%20Code">youtube</td> 
+  </tr>
+  <tr>
+    <td>10 Days of JavaScript</td>
+    <td> <a href="30%20Days%20of%20Code"> solution</td>  
+<td><a href="30%20Days%20of%20Code">youtube</td> 
+  </tr>
+  
+  <tr>
+    <td rowspan="3">Topic</td>
+    <td>c</td>
+    <td> <a href=""> solution</td>  
+<td><a href="">youtube</td> 
+  </tr>
+  <tr>
+    <td>JavaScript</td>
+    <td><a href="">Solution</td>  
+    <td><a href="">youtube</td> 
+  </tr>
+  <tr>
+    <td>Python</td>
+    <td> <a href=""> solution</td>  
+<td><a href="">youtube</td> 
+  </tr>
 </table>
