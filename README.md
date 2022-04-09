@@ -81,4 +81,20 @@ I’m a research scientist working to better understand About AI. My expertise i
     <td> <a href=""> solution</td>  
 <td><a href="">youtube</td> 
   </tr>
+    <tr>
+    <td rowspan="3">Certificates</td>
+    <td>c#</td>
+    <td> <a href="Certificates%20solution"> solution</td>  
+<td><a href="">youtube</td> 
+  </tr>
+  <tr>
+    <td>SQL(basic)</td>
+    <td><a href="Certificates%20solution">Solution</td>  
+    <td><a href="">youtube</td> 
+  </tr>
+  <tr>
+    <td>Problem Solving</td>
+    <td> <a href="Certificates%20solution"> solution</td>  
+<td><a href="">youtube</td> 
+  </tr>
 </table>
