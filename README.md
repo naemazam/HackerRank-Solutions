@@ -60,7 +60,7 @@ I’m a research scientist working to better understand About AI. My expertise i
     <td><a href="30%20Days%20of%20Code">youtube</td> 
   </tr>
   <tr>
-    <td>10 Days of JavaScript</td>
+    <td>10 Days of Statistics</td>
     <td> <a href="30%20Days%20of%20Code"> solution</td>  
 <td><a href="30%20Days%20of%20Code">youtube</td> 
   </tr>
