@@ -61,13 +61,13 @@ I’m a research scientist working to better understand About AI. My expertise i
   </tr>
   <tr>
     <td>10 Days of Statistics</td>
-    <td> <a href="30%20Days%20of%20Code"> solution</td>  
-<td><a href="30%20Days%20of%20Code">youtube</td> 
+    <td> <a href="10%20Days%20of%20Statistics#readme"> solution</td>  
+<td><a href="">youtube</td> 
   </tr>
   
   <tr>
     <td rowspan="3">Topic</td>
-    <td>c</td>
+    <td>C</td>
     <td> <a href=""> solution</td>  
 <td><a href="">youtube</td> 
   </tr>
