@@ -72,7 +72,7 @@ I’m a research scientist working to better understand About Cybersecurity And 
   </tr>
   
   <tr>
-    <td rowspan="3">Topic</td>
+    <td rowspan="4">Topic</td>
     <td>C</td>
     <td> <a href=""> solution</td>  
 <td><a href="">youtube</td> 
@@ -80,12 +80,12 @@ I’m a research scientist working to better understand About Cybersecurity And 
     <tr>
     <td>C++</td>
     <td><a href="">Solution</td>  
-    <td><a href="">youtube</td> 
+    <td><a href="https://youtube.com/playlist?list=PL-dWyZ8prR9U94IrRyULpZwKVsZff3HbD&si=-g4WdO6lwa3VXkGI">youtube</td> 
   </tr> 
   <tr>
     <td>JavaScript</td>
     <td><a href="">Solution</td>  
-    <td><a href="https://youtube.com/playlist?list=PL-dWyZ8prR9U94IrRyULpZwKVsZff3HbD&si=-g4WdO6lwa3VXkGI">youtube</td> 
+    <td><a href="">youtube</td> 
   </tr>
   <tr>
     <td>Python</td>
