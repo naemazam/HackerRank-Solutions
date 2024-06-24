@@ -10,7 +10,7 @@ I'm actively solving C++ problems on HackerRank to enhance my problem-solving sk
 
 | Problem Name                        | Difficulty | Solution Link                                 |
 | ----------------------------------- | ---------- | ---------------------------------------------- |
-| Solve Me First                      | Easy       | [Link to Solution](https://github.com/naemazam/HackerRank/blob/main/SolveMeFirst.cpp) |
+| Say "Hello, World!" With C++.cpp                     | Easy       | [Link to Solution](https://github.com/naemazam/HackerRank/blob/main/SolveMeFirst.cpp) |
 | Simple Array Sum                    | Easy       | [Link to Solution](https://github.com/naemazam/HackerRank/blob/main/SimpleArraySum.cpp) |
 | Compare the Triplets                | Easy       | [Link to Solution](https://github.com/naemazam/HackerRank/blob/main/CompareTheTriplets.cpp) |
 | A Very Big Sum                      | Easy       | [Link to Solution](https://github.com/naemazam/HackerRank/blob/main/AVeryBigSum.cpp) |
