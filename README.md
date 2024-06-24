@@ -18,7 +18,7 @@
 
 
 ## Personal HackerRank Profile
-I’m a research scientist working to better understand About AI. My expertise includes Linux System Administration, IT Support Specialist, Web Design, and implementation of research tools. I enjoy generating new ideas and devising feasible solutions to broadly relevant problems.
+I’m a research scientist working to better understand About Cybersecurity And AI. My expertise includes Linux System Administration, IT Support Specialist, Web Design, and implementation of research tools. I enjoy generating new ideas and devising feasible solutions to broadly relevant problems.
 
 [View Profile](https://www.hackerrank.com/naemazam)
 
