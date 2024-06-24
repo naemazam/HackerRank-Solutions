@@ -79,7 +79,7 @@ I’m a research scientist working to better understand About Cybersecurity And 
   </tr>
     <tr>
     <td>C++</td>
-    <td><a href="">Solution</td>  
+    <td><a href="https://github.com/naemazam/HackerRank-Solutions/blob/main/HackerRank%20C%2B%2B%20Solution/README.md">Solution</td>  
     <td><a href="https://youtube.com/playlist?list=PL-dWyZ8prR9U94IrRyULpZwKVsZff3HbD&si=-g4WdO6lwa3VXkGI">youtube</td> 
   </tr> 
   <tr>
