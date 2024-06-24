@@ -77,10 +77,15 @@ I’m a research scientist working to better understand About Cybersecurity And 
     <td> <a href=""> solution</td>  
 <td><a href="">youtube</td> 
   </tr>
+    <tr>
+    <td>C++</td>
+    <td><a href="">Solution</td>  
+    <td><a href="">youtube</td> 
+  </tr> 
   <tr>
     <td>JavaScript</td>
     <td><a href="">Solution</td>  
-    <td><a href="">youtube</td> 
+    <td><a href="https://youtube.com/playlist?list=PL-dWyZ8prR9U94IrRyULpZwKVsZff3HbD&si=-g4WdO6lwa3VXkGI">youtube</td> 
   </tr>
   <tr>
     <td>Python</td>
